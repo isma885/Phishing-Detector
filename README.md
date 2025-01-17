@@ -34,13 +34,13 @@ Este proyecto implementa una **Red Neuronal Artificial (ANN)** para detectar sit
 
 ## 📊 Resultados Visuales  
 ### Distribución de Clases  
-![Distribución de Clases](distribucion-de-clases.png)  
+![Distribución de Clases](./results/distribucion-de-clases.png)  
 
 ### Matriz de Correlación  
-![Matriz de Correlación](matriz-de-correlacion.png)  
+![Matriz de Correlación](./results/matriz-de-correlacion.png)  
 
 ### Matriz de Confusión  
-![Matriz de Confusión](matriz-de-confusion.png)  
+![Matriz de Confusión](./results/matriz-de-confusion.png)  
 
 ---
 
